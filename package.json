@@ -7,9 +7,22 @@
     "@types/node": "12.11.7",
     "@types/react": "16.9.11",
     "@types/react-dom": "16.9.3",
+    "@types/react-redux": "^7.1.5",
+    "@types/redux": "^3.6.0",
+    "@types/redux-actions": "^2.6.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-redux": "^7.1.1",
+    "react-redux-subspace": "^6.1.0",
     "react-scripts": "3.2.0",
+    "reduce-reducers": "^1.0.4",
+    "redux": "^4.0.4",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-observable": "^1.2.0",
+    "redux-subspace": "^6.1.0",
+    "redux-subspace-observable": "^6.1.0",
+    "typesafe-actions": "^4.4.2",
     "typescript": "3.6.4"
   },
   "scripts": {
@@ -32,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
   }
 }
